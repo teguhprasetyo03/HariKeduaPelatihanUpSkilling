@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hari Kedua</string>
+    <string name="hi_hi_hi">Hi Hi Hi</string>
+    <string name="click_me">Click Me</string>
+    <string name="nilai_1">Masukkan Nilai Pertama</string>
+    <string name="nilai_2">Masukkan Nilai Kedua </string>
+    <string name="hitung">Hitung</string>
+    <string name="hasil">Hasil</string>
+</resources>
